@@ -6,6 +6,7 @@ approved late days: 0
 tests grade: 100.0
 final grade: 100.0
 
+
 ex2-tests/partA-provided-tests:
     build: success
     out: identical
